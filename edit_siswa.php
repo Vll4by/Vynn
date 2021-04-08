@@ -189,7 +189,7 @@ include 'koneksi.php';
       </div>
       <footer class="main-footer">
         <div class="footer-left">
-          Copyright &copy; 2021 <div class="bullet"></div> Design By <a href="#">Naufal FIFA</a>
+          Copyright &copy; 2021 <div class="bullet"></div> Design By <a href="#">Dhimas</a>
         </div>
         <div class="footer-right">
           2.3.0

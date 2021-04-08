@@ -152,7 +152,7 @@ else if($_SESSION['level']=="petugas"){
       
       <footer class="main-footer">
         <div class="footer-left">
-          Copyright &copy; 2021 <div class="bullet"></div> Design By <a href="#"><font color="green">Moehamad Ali</font></a>
+          Copyright &copy; 2021 <div class="bullet"></div> Design By <a href="#"><font color="green">Dhimas</font></a>
         </div>
         <div class="footer-right">
           1.0.0

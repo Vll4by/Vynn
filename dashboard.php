@@ -28,11 +28,11 @@
                       <div class="card-stats-item-label">Siswa</div>
                     </div>
                     <div class="card-stats-item">
-                      <div class="card-stats-item-count">12</div>
+                      <div class="card-stats-item-count">0</div>
                       <div class="card-stats-item-label">B Lunas</div>
                     </div>
                     <div class="card-stats-item">
-                      <div class="card-stats-item-count">23</div>
+                      <div class="card-stats-item-count">0</div>
                       <div class="card-stats-item-label">Lunas</div>
                     </div>
                   </div>
